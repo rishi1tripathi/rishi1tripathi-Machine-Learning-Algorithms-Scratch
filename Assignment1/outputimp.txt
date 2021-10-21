@@ -1,0 +1,141 @@
+Is UCSize>2.0
+True Branch
+  Is UCSize>4.0
+  True Branch
+    Is BN>0.0
+    True Branch
+      Is BC>4.0
+      True Branch
+        4
+      Is BC>4.0
+      False Branch
+        Is CT>6.0
+        True Branch
+          4
+        Is CT>6.0
+        False Branch
+          Is UCShape>6.0
+          True Branch
+            Is CT>5.0
+            True Branch
+              2
+            Is CT>5.0
+            False Branch
+              Is MA>1.0
+              True Branch
+                4
+              Is MA>1.0
+              False Branch
+                2
+          Is UCShape>6.0
+          False Branch
+            4
+    Is BN>0.0
+    False Branch
+      Is CT>6.0
+      True Branch
+        4
+      Is CT>6.0
+      False Branch
+        2
+  Is UCSize>4.0
+  False Branch
+    Is BN>3.0
+    True Branch
+      Is UCShape>4.0
+      True Branch
+        4
+      Is UCShape>4.0
+      False Branch
+        Is CT>8.0
+        True Branch
+          4
+        Is CT>8.0
+        False Branch
+          Is BC>6.0
+          True Branch
+            2
+          Is BC>6.0
+          False Branch
+            Is CT>6.0
+            True Branch
+              4
+            Is CT>6.0
+            False Branch
+              Is Mitoses>1.0
+              True Branch
+                2
+              Is Mitoses>1.0
+              False Branch
+                Is UCSize>3.0
+                True Branch
+                  2
+                Is UCSize>3.0
+                False Branch
+                  4
+    Is BN>3.0
+    False Branch
+      Is NN>1.0
+      True Branch
+        Is CT>3.0
+        True Branch
+          Is MA>3.0
+          True Branch
+            4
+          Is MA>3.0
+          False Branch
+            Is BN>1.0
+            True Branch
+              Is NN>2.0
+              True Branch
+                4
+              Is NN>2.0
+              False Branch
+                2
+            Is BN>1.0
+            False Branch
+              Is BC>4.0
+              True Branch
+                4
+              Is BC>4.0
+              False Branch
+                2
+        Is CT>3.0
+        False Branch
+          Is MA>6.0
+          True Branch
+            4
+          Is MA>6.0
+          False Branch
+            2
+      Is NN>1.0
+      False Branch
+        2
+Is UCSize>2.0
+False Branch
+  Is BN>2.0
+  True Branch
+    Is CT>3.0
+    True Branch
+      Is BN>4.0
+      True Branch
+        4
+      Is BN>4.0
+      False Branch
+        Is CT>5.0
+        True Branch
+          4
+        Is CT>5.0
+        False Branch
+          2
+    Is CT>3.0
+    False Branch
+      2
+  Is BN>2.0
+  False Branch
+    Is CT>7.0
+    True Branch
+      2
+    Is CT>7.0
+    False Branch
+      2
